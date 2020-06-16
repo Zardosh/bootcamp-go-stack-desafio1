@@ -55,7 +55,7 @@ Talvez fique difícil enxergar por ser apenas um número, mas pense que cada lik
 
 Bons estudos <3
 
-### Específicação dos testes
+### Especificação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
 
